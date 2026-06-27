@@ -7,11 +7,14 @@ minecraft 26.1.2 (java)
 必要ファイル↓
 paper 26.1.2 
 https://fill-ui.papermc.io/projects/paper/family/26.1
+
 magic 
 https://www.spigotmc.org/resources/magic.1056/
+
 必要環境↓
 java 25 
 https://adoptium.net/ja/temurin/releases
+
 JDK 25 - LTSタブを押し
 Temurin jdk-25.0.3+9, Windows 64 bit (.MSI)をダウンロード、インストールしてください
 前提操作
