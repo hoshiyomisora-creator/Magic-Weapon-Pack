@@ -4,7 +4,9 @@
 
 対応
 minecraft 26.1.2 (java)
+
 必要ファイル↓
+
 paper 26.1.2 
 
 https://fill-ui.papermc.io/projects/paper/family/26.1
