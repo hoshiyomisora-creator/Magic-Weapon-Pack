@@ -116,10 +116,15 @@ pause
 
 #確認
 □ java25を入れた
+
 □ マインクラフトージョンが会っている
+
 □ paperのバージョンが会っている
+
 □ eula=trueとなっている
+
 □ start.batがstart.bat.txtになってないかの確認
+
 □ サーバーアドレスにlocalhostと入れる
 
 #よくある失敗
