@@ -119,7 +119,7 @@ pause
 #確認
 □ java25を入れた
 
-□ マインクラフトージョンが会っている
+□ Minecraftのバージョンが会っている
 
 □ paperのバージョンが会っている
 
@@ -133,7 +133,7 @@ pause
 
 #サーバーが起動しないorサーバーに入れない
 
-magic.jar paper.jarを解凍している(してはいけない)
+magic.jar paper.jarを解凍している(解凍せずに使う)
 
 eula.txtの中身のeula=falseをeula=trueに書き換えてない
 
