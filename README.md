@@ -68,25 +68,29 @@ pause
 
 13. サーバーコンソールでstopと入れサーバーを終了
 
-14. pluginsフォルダにmagicを入れる
+14. pluginsフォルダを探す
 
-15. start.batを起動する
+15. pluginsフォルダにmagicを入れる
 
-16. magic-weapon-pack.zipを解凍
+16. start.batを起動する
 
-17. plugins/magic/spellにmagic-weapon-pack内のspellフォルダ内のymlファイルを入れる
+17. サーバーコンソールでstopと入れサーバーを終了
 
-18. plugins/magic/wandにmagic-weapon-pack内のwandフォルダ内のymlファイルを入れる
+18. magic-weapon-pack.zipを解凍
 
-19. minecraftをバージョン26.1.2で起動する
+19. plugins/magic/spellにmagic-weapon-pack内のspellフォルダ内のymlファイルを入れる
 
-20. マイクラのマルチプレイ→サーバーの追加、サーバーアドレスにlocalhostと入れる
+20. plugins/magic/wandにmagic-weapon-pack内のwandフォルダ内のymlファイルを入れる
 
-21. サーバーコンソールでop マイクラのユーザー名 と入れる
+21. minecraftをバージョン26.1.2で起動する
 
-22. サーバーを再起動する（コンソールでstopと入れstart.batを起動しなおす）
+22. マイクラのマルチプレイ→サーバーの追加、サーバーアドレスにlocalhostと入れる
 
-23. /mgive 武器idと入れると武器を入手可能（武器IDは説明書に記載）
+23. サーバーコンソールでop マイクラのユーザー名 と入れる
+
+24. サーバーを再起動する（コンソールでstopと入れstart.batを起動しなおす）
+
+25. /mgive 武器idと入れると武器を入手可能（武器IDは説明書に記載）
 
 #リソースパックの導入（見た目の変更）
 1. マインクラフトランチャーを起動する
